@@ -57,4 +57,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/supersonic/proprietary/lights.supersonic.so:/system/lib/hw/lights.supersonic.so \
 	vendor/htc/supersonic/proprietary/sensors.supersonic.so:/system/lib/hw/sensors.supersonic.so \
     vendor/htc/supersonic/proprietary/libdivxdrmdecrypt.so:/system/lib/libdivxdrmdecrypt.so \
+    vendor/htc/supersonic/proprietary/libmediaplayerservice.so:/system/lib/libmediaplayerservice.so \
+    vendor/htc/supersonic/proprietary/libstagefright.so:/system/lib/libstagefright.so \
+    vendor/htc/supersonic/proprietary/libstagefrighthw.so:/system/lib/libstagefrighthw.so \
     vendor/htc/supersonic/proprietary/wimax-api.jar:/system/framework/wimax-api.jar
