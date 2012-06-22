@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/ipd:/system/bin/ipd \
     vendor/htc/supersonic/proprietary/ip:/system/bin/ip \
     vendor/htc/supersonic/proprietary/sequansd_app.xml:/system/etc/wimax/sequansd/sequansd_app.xml \
-	vendor/htc/inc/proprietary/libqc-opt.so:/system/lib/libqc-opt.so \
+	vendor/htc/supersonic/proprietary/libqc-opt.so:/system/lib/libqc-opt.so \
 	vendor/htc/supersonic/proprietary/gps.supersonic.so:/system/lib/hw/gps.supersonic.so \
 	vendor/htc/supersonic/proprietary/lights.supersonic.so:/system/lib/hw/lights.supersonic.so \
 	vendor/htc/supersonic/proprietary/sensors.supersonic.so:/system/lib/hw/sensors.supersonic.so \
