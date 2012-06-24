@@ -68,7 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/libmmparser_divxdrmlib.so:/system/lib/libmmparser_divxdrmlib.so \
     vendor/htc/supersonic/proprietary/libnetmonitor.so:/system/lib/libnetmonitor.so \
     vendor/htc/supersonic/proprietary/libOpenVG.so:/system/lib/libOpenVG.so \
-    vendor/htc/supersonic/proprietary/liblibtcpfinaggr.so:/system/lib/libtcfinaggr.so \
+    vendor/htc/supersonic/proprietary/libtcpfinaggr.so:/system/lib/libtcfinaggr.so \
     vendor/htc/supersonic/proprietary/libv8.so:/system/lib/libv8.so \
     vendor/htc/supersonic/proprietary/pp_proc_plugin.so:/system/lib/pp_proc_plugin.so \
     vendor/htc/supersonic/proprietary/qnet-plugin.so:/system/lib/qnet-plugin.so \
