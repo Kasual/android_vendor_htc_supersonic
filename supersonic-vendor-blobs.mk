@@ -56,6 +56,7 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/supersonic/proprietary/gps.supersonic.so:/system/lib/hw/gps.supersonic.so \
 	vendor/htc/supersonic/proprietary/lights.supersonic.so:/system/lib/hw/lights.supersonic.so \
 	vendor/htc/supersonic/proprietary/sensors.supersonic.so:/system/lib/hw/sensors.supersonic.so \
+    vendor/htc/supersonic/proprietary/gralloc.qsd8k.so:/system/lib/hw/gralloc.qsd8k.so \
     vendor/htc/supersonic/proprietary/libdivxdrmdecrypt.so:/system/lib/libdivxdrmdecrypt.so \
     vendor/htc/supersonic/proprietary/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/supersonic/proprietary/libcneapiclient.so:/system/lib/libneapiclient.so \
