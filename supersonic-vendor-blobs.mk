@@ -73,4 +73,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/pp_proc_plugin.so:/system/lib/pp_proc_plugin.so \
     vendor/htc/supersonic/proprietary/qnet-plugin.so:/system/lib/qnet-plugin.so \
     vendor/htc/supersonic/proprietary/tcp-connections.so:/system/lib/tcp-connections.so \
+	vendor/htc/supersonic/proprietary/dmagent:/system/bin/dmagent \
+	vendor/htc/supersonic/proprietary/wimax_uart:/system/bin/wimaxuart \
+	vendor/htc/supersonic/proprietary/wimaxConfigInterface:/system/bin/wimaxConfigInterface \
+	vendor/htc/supersonic/proprietary/wimaxDaemon:/system/bin/wimaxDaemon \
     vendor/htc/supersonic/proprietary/wimax-api.jar:/system/framework/wimax-api.jar
