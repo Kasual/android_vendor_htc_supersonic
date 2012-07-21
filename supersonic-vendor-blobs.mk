@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/wimax_mtd:/system/bin/wimax_mtd \
     vendor/htc/supersonic/proprietary/sequansd:/system/bin/sequansd \
     vendor/htc/supersonic/proprietary/getWiMAXPropDaemond:/system/bin/getWiMAXPropDaemond \
-    vendor/htc/supersonic/proprietary/wimaxDumpLastKmsg:/system/bin/wimaxDumpLastKmsg \
+    vendor/htc/supersonic/proprietary/dumpLastKmsg:/system/bin/dumpLastKmsg \
     vendor/htc/supersonic/proprietary/wimaxDhcpRenew:/system/bin/wimaxDhcpRenew \
     vendor/htc/supersonic/proprietary/wimaxDhcpRelease:/system/bin/wimaxDhcpRelease \
     vendor/htc/supersonic/proprietary/wimaxAddRoute:/system/bin/wimaxAddRoute \
