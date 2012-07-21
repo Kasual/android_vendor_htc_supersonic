@@ -76,4 +76,9 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/supersonic/proprietary/wimax_uart:/system/bin/wimaxuart \
 	vendor/htc/supersonic/proprietary/wimaxConfigInterface:/system/bin/wimaxConfigInterface \
 	vendor/htc/supersonic/proprietary/wimaxDaemon:/system/bin/wimaxDaemon \
+	vendor/htc/supersonic/proprietary/wimaxFactoryReset:/system/bin/wimaxFactoryReset \
+	vendor/htc/supersonic/proprietary/netmgrd:/system/bin/netmgrd \
+	vendor/htc/supersonic/proprietary/qmuxd:/system/bin/qmuxd \
+	vendor/htc/supersonic/proprietary/libnetmgr.so:/system/lib/libnetmgr.so \
+	vendor/htc/supersonic/proprietary/libwimaxjni.so:/system/lib/libwimaxjni.so \
     vendor/htc/supersonic/proprietary/wimax-api.jar:/system/framework/wimax-api.jar
