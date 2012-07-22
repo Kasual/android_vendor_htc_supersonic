@@ -44,6 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/sequansd:/system/bin/sequansd \
     vendor/htc/supersonic/proprietary/getWiMAXPropDaemond:/system/bin/getWiMAXPropDaemond \
     vendor/htc/supersonic/proprietary/dumpLastKmsg:/system/bin/dumpLastKmsg \
+	vendor/htc/supersonic/proprietary/wimaxDumpLastKmsg:/system/bin/wimaxDumpLastKmsg \
 	vendor/htc/supersonic/proprietary/libdmtree.so:/system/lib/libdmtree.so \
 	vendor/htc/supersonic/proprietary/libhtcdm.so:/system/lib/libhtcdm.so \
     vendor/htc/supersonic/proprietary/wimaxDhcpRenew:/system/bin/wimaxDhcpRenew \
