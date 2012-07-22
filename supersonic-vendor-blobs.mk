@@ -83,5 +83,4 @@ PRODUCT_COPY_FILES += \
 	vendor/htc/supersonic/proprietary/netmgrd:/system/bin/netmgrd \
 	vendor/htc/supersonic/proprietary/qmuxd:/system/bin/qmuxd \
 	vendor/htc/supersonic/proprietary/libnetmgr.so:/system/lib/libnetmgr.so \
-	vendor/htc/supersonic/proprietary/libwimaxjni.so:/system/lib/libwimaxjni.so \
     vendor/htc/supersonic/proprietary/wimax-api.jar:/system/framework/wimax-api.jar
