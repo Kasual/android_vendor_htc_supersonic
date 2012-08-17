@@ -36,25 +36,12 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so \
     vendor/htc/supersonic/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/htc/supersonic/proprietary/libgsl.so:/system/lib/libgsl.so \
-    vendor/htc/supersonic/proprietary/wimaxDumpKmsg:/system/bin/wimaxDumpKmsg \
     vendor/htc/supersonic/proprietary/apph:/system/bin/apph \
-    vendor/htc/supersonic/proprietary/wimaxDumpLogcat:/system/bin/wimaxDumpLogcat \
-    vendor/htc/supersonic/proprietary/setWiMAXPropDaemond:/system/bin/setWiMAXPropDaemond \
-    vendor/htc/supersonic/proprietary/wimax_mtd:/system/bin/wimax_mtd \
-    vendor/htc/supersonic/proprietary/sequansd:/system/bin/sequansd \
-    vendor/htc/supersonic/proprietary/getWiMAXPropDaemond:/system/bin/getWiMAXPropDaemond \
-    vendor/htc/supersonic/proprietary/wimaxDumpLastKmsg:/system/bin/wimaxDumpLastKmsg \
-    vendor/htc/supersonic/proprietary/wimaxDhcpRenew:/system/bin/wimaxDhcpRenew \
-    vendor/htc/supersonic/proprietary/wimaxDhcpRelease:/system/bin/wimaxDhcpRelease \
-    vendor/htc/supersonic/proprietary/wimaxAddRoute:/system/bin/wimaxAddRoute \
-    vendor/htc/supersonic/proprietary/DefaultTree.xml:/system/etc/wimax/sequansd/DefaultTree.xml \
-    vendor/htc/supersonic/proprietary/wimaxDhcp.conf:/system/etc/wimax/dhcp/wimaxDhcp.conf \
     vendor/htc/supersonic/proprietary/ipd:/system/bin/ipd \
-    vendor/htc/supersonic/proprietary/sequansd_app.xml:/system/etc/wimax/sequansd/sequansd_app.xml \
-	vendor/htc/supersonic/proprietary/libqc-opt.so:/system/lib/libqc-opt.so \
-	vendor/htc/supersonic/proprietary/gps.supersonic.so:/system/lib/hw/gps.supersonic.so \
-	vendor/htc/supersonic/proprietary/lights.supersonic.so:/system/lib/hw/lights.supersonic.so \
-	vendor/htc/supersonic/proprietary/sensors.supersonic.so:/system/lib/hw/sensors.supersonic.so \
+    vendor/htc/supersonic/proprietary/libqc-opt.so:/system/lib/libqc-opt.so \
+    vendor/htc/supersonic/proprietary/gps.supersonic.so:/system/lib/hw/gps.supersonic.so \
+    vendor/htc/supersonic/proprietary/lights.supersonic.so:/system/lib/hw/lights.supersonic.so \
+    vendor/htc/supersonic/proprietary/sensors.supersonic.so:/system/lib/hw/sensors.supersonic.so \
     vendor/htc/supersonic/proprietary/libdivxdrmdecrypt.so:/system/lib/libdivxdrmdecrypt.so \
     vendor/htc/supersonic/proprietary/libC2D2.so:/system/lib/libC2D2.so \
     vendor/htc/supersonic/proprietary/libcneapiclient.so:/system/lib/libneapiclient.so \
@@ -72,14 +59,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/pp_proc_plugin.so:/system/lib/pp_proc_plugin.so \
     vendor/htc/supersonic/proprietary/qnet-plugin.so:/system/lib/qnet-plugin.so \
     vendor/htc/supersonic/proprietary/tcp-connections.so:/system/lib/tcp-connections.so \
-	vendor/htc/supersonic/proprietary/dmagent:/system/bin/dmagent \
-	vendor/htc/supersonic/proprietary/wimax_uart:/system/bin/wimaxuart \
-	vendor/htc/supersonic/proprietary/wimaxConfigInterface:/system/bin/wimaxConfigInterface \
-	vendor/htc/supersonic/proprietary/wimaxDaemon:/system/bin/wimaxDaemon \
-	vendor/htc/supersonic/proprietary/wimaxFactoryReset:/system/bin/wimaxFactoryReset \
-	vendor/htc/supersonic/proprietary/netmgrd:/system/bin/netmgrd \
-	vendor/htc/supersonic/proprietary/qmuxd:/system/bin/qmuxd \
-	vendor/htc/supersonic/proprietary/libnetmgr.so:/system/lib/libnetmgr.so \
+    vendor/htc/supersonic/proprietary/dmagent:/system/bin/dmagent \
+    vendor/htc/supersonic/proprietary/netmgrd:/system/bin/netmgrd \
+    vendor/htc/supersonic/proprietary/qmuxd:/system/bin/qmuxd \
+    vendor/htc/supersonic/proprietary/libnetmgr.so:/system/lib/libnetmgr.so \
     vendor/htc/supersonic/proprietary/audio.primary.qsd8k.so:/system/lib/hw/audio.primary.qsd8k.so \
-	vendor/htc/supersonic/proprietary/audio_policy.qsd8k.so:/system/lib/hw/audio_policy.qsd8k.so \
-    vendor/htc/supersonic/proprietary/wimax-api.jar:/system/framework/wimax-api.jar
+    vendor/htc/supersonic/proprietary/audio_policy.qsd8k.so:/system/lib/hw/audio_policy.qsd8k.so
