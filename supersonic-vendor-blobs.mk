@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/htc/supersonic/proprietary/yamato_pfp.fw:/system/etc/firmware/yamato_pfp.fw \
     vendor/htc/supersonic/proprietary/yamato_pm4.fw:/system/etc/firmware/yamato_pm4.fw \
-    vendor/htc/supersonic/proprietary/libOmxVidEnc.so:system/lib/libOmxVidEnc.so \
+    vendor/htc/supersonic/proprietary/libOmxVidEnc.so:system/lib/libOmxVidEnc.so
     vendor/htc/supersonic/proprietary/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/htc/supersonic/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/htc/supersonic/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
