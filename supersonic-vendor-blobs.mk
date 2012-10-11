@@ -62,6 +62,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/dmagent:/system/bin/dmagent \
     vendor/htc/supersonic/proprietary/netmgrd:/system/bin/netmgrd \
     vendor/htc/supersonic/proprietary/qmuxd:/system/bin/qmuxd \
-    vendor/htc/supersonic/proprietary/libnetmgr.so:/system/lib/libnetmgr.so \
-    vendor/htc/supersonic/proprietary/audio.primary.qsd8k.so:/system/lib/hw/audio.primary.qsd8k.so \
-    vendor/htc/supersonic/proprietary/audio_policy.qsd8k.so:/system/lib/hw/audio_policy.qsd8k.so
+    vendor/htc/supersonic/proprietary/libnetmgr.so:/system/lib/libnetmgr.so
