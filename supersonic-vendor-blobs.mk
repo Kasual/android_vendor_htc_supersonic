@@ -46,20 +46,12 @@ PRODUCT_COPY_FILES += \
     vendor/htc/supersonic/proprietary/sensors.supersonic.so:/system/lib/hw/sensors.supersonic.so \
     vendor/htc/supersonic/proprietary/libdivxdrmdecrypt.so:/system/lib/libdivxdrmdecrypt.so \
     vendor/htc/supersonic/proprietary/libC2D2.so:/system/lib/libC2D2.so \
-    vendor/htc/supersonic/proprietary/libcneapiclient.so:/system/lib/libneapiclient.so \
-    vendor/htc/supersonic/proprietary/libcneqmiutils.so:/system/lib/libcneqmiutils.so \
-    vendor/htc/supersonic/proprietary/libdiag.so:/system/lib/libdiag.so \
-    vendor/htc/supersonic/proprietary/libdnshostprio.so:/system/lib/libdnshostprio.so \
     vendor/htc/supersonic/proprietary/libmm-color-convertor.so:/system/lib/libmm-color-convertor.so \
     vendor/htc/supersonic/proprietary/libmmosal.so:/system/lib/libmmosal.so \
     vendor/htc/supersonic/proprietary/libmmparser.so:/system/lib/libmmparser.so \
     vendor/htc/supersonic/proprietary/libmmparser_divxdrmlib.so:/system/lib/libmmparser_divxdrmlib.so \
     vendor/htc/supersonic/proprietary/libnetmonitor.so:/system/lib/libnetmonitor.so \
     vendor/htc/supersonic/proprietary/libOpenVG.so:/system/lib/libOpenVG.so \
-    vendor/htc/supersonic/proprietary/libtcpfinaggr.so:/system/lib/libtcfinaggr.so \
-    vendor/htc/supersonic/proprietary/pp_proc_plugin.so:/system/lib/pp_proc_plugin.so \
-    vendor/htc/supersonic/proprietary/qnet-plugin.so:/system/lib/qnet-plugin.so \
-    vendor/htc/supersonic/proprietary/tcp-connections.so:/system/lib/tcp-connections.so \
     vendor/htc/supersonic/proprietary/dmagent:/system/bin/dmagent \
     vendor/htc/supersonic/proprietary/netmgrd:/system/bin/netmgrd \
     vendor/htc/supersonic/proprietary/qmuxd:/system/bin/qmuxd \
