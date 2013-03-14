@@ -29,9 +29,4 @@
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS := vendor/htc/supersonic/overlay
 
-# All the apks necessary for supersonic
-PRODUCT_PACKAGES += \
-    SprintMenu \
-    SystemUpdateUI 
-
 $(call inherit-product, vendor/htc/supersonic/supersonic-vendor-blobs.mk)
